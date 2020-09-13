@@ -1,0 +1,5 @@
+spdlog
+catch2
+boost-asio
+fmt
+nlohmann-json
